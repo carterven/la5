@@ -112,7 +112,7 @@ from 3 to 5: hops 3 2 4 5; message: This one gets sent from 3 to 5!
 1 1 3
 2 2 0
 3 3 3
-4 2 4
+4 1 4
 5 5 4
 
 1 2 6
@@ -122,8 +122,8 @@ from 3 to 5: hops 3 2 4 5; message: This one gets sent from 3 to 5!
 5 2 7
 
 1 1 1
-2 4 4
-3 4 7
+2 1 4
+3 1 7
 4 4 0
 5 5 1
 
